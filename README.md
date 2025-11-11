@@ -88,5 +88,7 @@ __OUTPUT:__
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fbea16a7-36c0-4430-b766-a7ff203dbf10" />
 
+
+
 __RESULT:__
 Thus the autocorrelation is hence proved and verified successfully.
